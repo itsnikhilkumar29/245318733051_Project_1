@@ -1,5 +1,5 @@
 # simple-rest-api
-This is a simple rest api for HospitalManagement.
+This is a simple rest api for HospitalManagement using NodeJS and MongoDB 
 
 ## Quick Glance
 This project has mainly four files (basically .js files).
