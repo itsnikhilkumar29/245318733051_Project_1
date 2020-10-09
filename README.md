@@ -8,7 +8,7 @@ This project has mainly four files (basically .js files).
 - middleware.js
 - Mainapp.js
 
-server.js file validates the user's login credentilas. If the credentials are correct, then user can access the Mainapp.js.
+server.js file validates the user's login credentials. If the credentials are correct, then user can access the Mainapp.js.
 middleware.js basically authenticates user while accessing the site.
 
 ## How to run it?
